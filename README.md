@@ -6,3 +6,4 @@ I mostly followed this [post](https://machinelearningmastery.com/how-to-develop-
 
 
 ## Results
+![Result](https://github.com/favitor/GuitarGAN/blob/main/plot_010000.png?raw=true "Result")
